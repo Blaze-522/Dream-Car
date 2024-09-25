@@ -15,9 +15,9 @@ const truck1 = new Truck(
   "F-150",
   2021,
   5000,
-  120,
-  [], 
-  10000);
+  120, 
+  10000,
+  []);
 
 // will use default wheels
 const car1 = new Car(

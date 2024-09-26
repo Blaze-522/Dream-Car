@@ -18,7 +18,8 @@
   
   ## Usage
   After downloading the required modules the user will run an install using npm install to download inquirer then using the command npx tsc will integrate all of the .ts files into their .js counter parts then you will be able to run the code from there.
-  
+
+  [Walkthrough Video](https://youtu.be/cfFiABd7VDE)
   ## License
   This project is licensed under the MIT license.
   
